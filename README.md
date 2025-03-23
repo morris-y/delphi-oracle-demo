@@ -8,7 +8,7 @@ This project demonstrates a redesign solution for the Delphi Oracle AI tool on t
 
 ## Product Screenshot
 
-![Delphi Oracle Demo](/public/screenshots/screenshot.png)
+![Delphi Oracle Demo](https://i.imgur.com/tUYsULH.jpg)
 
 ## About Delphi Oracle
 
