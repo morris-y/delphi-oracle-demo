@@ -1,50 +1,54 @@
-# Delphi Oracle - 重新设计演示
+# Delphi Oracle - Redesign Demo
 
-这是Delphi Oracle工具的重新设计演示项目。Delphi Oracle是基于Mira构建的AI工具，能够与Delphi Digital的4,500多篇研究论文进行对话。
+This is a redesign demonstration of the Delphi Oracle tool. Delphi Oracle is an AI tool built on Mira that can interact with over 4,500 research papers from Delphi Digital.
 
-## 项目简介
+## Project Overview
 
-这个项目是对Delphi Digital网站上的AI工具Delphi Oracle的重新设计方案的演示。该演示已通过Loom向Delphi Digital首席执行官Anil Lulla进行了展示。
+This project demonstrates a redesign solution for the Delphi Oracle AI tool on the Delphi Digital website. The demonstration was presented via Loom to Delphi Digital CEO Anil Lulla.
 
-## 关于Delphi Oracle
+## Product Screenshot
 
-Delphi Oracle是一个强大的Web3智能工具，具有以下特点：
-- 基于Mira构建
-- 可以与4,500多篇Delphi Digital研究论文进行对话
-- 跟踪市场变化并提供实时更新
-- 为用户提供加密和区块链领域的深入见解
+![Delphi Oracle Demo](/public/screenshots/screenshot.png)
 
-## 功能特点
+## About Delphi Oracle
 
-- **问题跟踪**：用户可以跟踪感兴趣的问题，并在有更新时收到通知
-- **实时对话**：与AI助手进行关于Web3趋势、代币和项目的实时对话
-- **响应式设计**：优化的移动端和桌面端用户体验
-- **浏览器扩展集成**：通过Chrome扩展程序随时随地访问(仅桌面版)
+Delphi Oracle is a powerful Web3, intelligence tool with the following features:
+- Built on Mira technology
+- Can chat with over 4,500 research papers from Delphi Digital
+- Tracks market changes and provides real-time updates
+- Delivers in-depth insights in the cryptocurrency and blockchain space
 
-## 技术栈
+## Key Features
+
+- **Question Tracking**: Users can track questions of interest and receive notifications when updates are available
+- **Real-time Conversations**: Engage in real-time conversations with the AI assistant about Web3 trends, tokens, and projects
+- **Responsive Design**: Optimized user experience for both mobile and desktop interfaces
+- **Browser Extension Integration**: Access anywhere through the Chrome extension (desktop only)
+
+## Technology Stack
 
 - Next.js 15
 - React 19
 - TypeScript
 - Tailwind CSS
-- shadcn/ui 组件库
+- shadcn/ui component library
 
-## 本地开发
+## Local Development
 
 ```bash
-# 安装依赖
+# Install dependencies
 npm install --legacy-peer-deps
 
-# 启动开发服务器
+# Start the development server
 npm run dev
 ```
 
-访问 `http://localhost:3000` 查看应用。
+Visit `http://localhost:3000` to view the application.
 
-## 效果展示
+## Showcase
 
-该项目演示了Delphi Oracle的重新设计，专注于改善用户体验和视觉设计，同时保持其强大的功能集。
+This project demonstrates the redesign of Delphi Oracle, focusing on improving user experience and visual design while maintaining its powerful feature set.
 
 ---
 
-*注：这是一个演示项目，不是Delphi Digital的官方产品。* 
+*Note: This is a demonstration project, not an official product of Delphi Digital.* 
