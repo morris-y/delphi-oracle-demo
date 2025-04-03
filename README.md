@@ -45,6 +45,8 @@ npm run dev
 
 Visit `http://localhost:3000` to view the application.
 
+This project is also deployed at https://delphi-oracle-demo.vercel.app.
+
 ## Showcase
 
 This project demonstrates the redesign of Delphi Oracle, focusing on improving user experience and visual design while maintaining its powerful feature set.
