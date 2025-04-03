@@ -25,7 +25,7 @@ export default function ChromeExtension() {
               View Popup Interface
             </Link>
             <span className="text-zinc-300">|</span>
-            <Link href="/chrome-extension" className="text-primary hover:text-blue-600">
+            <Link href="/popup" className="text-primary hover:text-blue-600">
               View Full Interface
             </Link>
           </div>

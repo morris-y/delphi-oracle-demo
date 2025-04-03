@@ -221,7 +221,7 @@ export default function Home() {
                     <p className="text-sm text-zinc-400">Access Delphi Oracle anywhere on the web</p>
                   </div>
                 </div>
-                <Link href="/chrome-extension">
+                <Link href="/popup">
                   <Button className="bg-primary hover:bg-blue-600 w-full sm:w-auto">View Extension</Button>
                 </Link>
               </div>
